@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ZXModifyInfoViewController networkGetResultData:Response:Error:]:ZXModifyInfoViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "dic.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ZXNewShopViewController setShopModel:]:ZXNewShopViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ZXModifyInfoViewController tableView:cellForRowAtIndexPath:]:ZXModifyInfoViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ShopViewModel setShopView:]:ShopViewModel.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ZXModifyInfoViewController tableView:didSelectRowAtIndexPath:]:ZXModifyInfoViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ZXNewShopViewController btnOkClick:]:ZXNewShopViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ZXNewShopViewController viewDidLoad]:ZXNewShopViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_shopModel.shopNumber">
+            </PersistentString>
+            <PersistentString
+               value = "self.scrollView1.contentSize">
+            </PersistentString>
+            <PersistentString
+               value = "[_shopModel.shopNumber isEqualToString:_txtShopNum.text]">
+            </PersistentString>
+            <PersistentString
+               value = "self.view">
+            </PersistentString>
+            <PersistentString
+               value = "_txtShopNum.text">
+            </PersistentString>
+            <PersistentString
+               value = "self.selectPicker.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ZXTabBar tabBar:didSelectItem:]:ZXTabBar.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ZXModifyInfoViewController viewDidLoad]:ZXModifyInfoViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_searchModel.username">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
